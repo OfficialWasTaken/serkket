@@ -1,8 +1,8 @@
-## Docs
-UNDER DEVELOPMENT
+# Docs
+Under Development
 
 
-## Supported Versions
+# Supported Versions
 
 | Version | Supported          |
 | ------- | ------------------ |
