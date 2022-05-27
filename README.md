@@ -1,14 +1,16 @@
-## Docs
+## Supported Minecraft Versions
 
-| Docs   | :x:                |
-
-
-## Supported Versions
-
-| Version | Supported          |
+| Version | Status             |
 | ------- | ------------------ |
 | Java    | :white_check_mark: |
 | Bedrock | :x:                |
+
+
+## Supported Minecraft Server Jars
+
+| Version | Supported          |
+| ------- | ------------------ |
+| Vanilla | :x:                |
 | Purpur  | :white_check_mark: |
 | Fabric  | :x:                |
 | Forge   | :x:                |
