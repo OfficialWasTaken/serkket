@@ -1,8 +1,9 @@
-# Docs
-Under Development
+## Docs
+
+| Docs   | :x:                |
 
 
-# Supported Versions
+## Supported Versions
 
 | Version | Supported          |
 | ------- | ------------------ |
